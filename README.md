@@ -1,5 +1,5 @@
 # Gerador de senhas 😊
-<p>Projeto do curso de Javascrript do básico ao avançado do Luiz Otávio, esse projeto tem o objetivo de mostra a minha evolução na linguagem😊. </p>
+<p>Projeto do curso de Javascrript do básico ao avançado do Luiz Otávio, esse projeto tem o objetivo de mostrar a minha evolução na linguagem😊. </p>
 
 # Tecnologias
 
